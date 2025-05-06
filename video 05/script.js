@@ -21,3 +21,9 @@ if(room >= 16 || gender == 'male'){
 }
 
 //not menas !
+
+const num = 428;
+
+if(num % 5 != 5){
+    console.log('yes this is my percentage')
+}
