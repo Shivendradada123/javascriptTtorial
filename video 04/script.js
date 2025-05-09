@@ -16,7 +16,7 @@ console.log('yes you can vote')
 
 //Switch Case
 
-let dost = 5;
+let dost = 3;
 
 switch(dost){
     case 1: console.log('shivendra')
