@@ -46,3 +46,4 @@ const addnum = (a, s) => a + s;
  }
 
  getnum();
+console.log("apne me hi mast ai")
